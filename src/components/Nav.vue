@@ -13,8 +13,8 @@
         
     </ul>
     <ul class="nav navbar-nav justify-content-end">
- <router-link to="/" tag="li"><a class="nav-link">SYNC</a></router-link>
-        <router-link to="/about" tag="li"><a class="nav-link">ASSYNC</a></router-link>
+ <router-link to="/" tag="li"><a class="nav-link">Synchronous</a></router-link>
+        <router-link to="/about" tag="li"><a class="nav-link">Assynchronous</a></router-link>
 </ul>
   </div>
 </nav>
